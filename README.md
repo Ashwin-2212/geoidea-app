@@ -36,9 +36,6 @@
 ### AI
 - Google Gemini
 
-## 📸 Screenshots
-
-Add screenshots here.
 
 ## ⚙️ Installation
 
