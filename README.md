@@ -1,20 +1,48 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# 🌍 GeoIdea
 
-# Run and deploy your AI Studio app
+> AI-powered geospatial platform for sharing, verifying, and tracking community ideas and civic issues.
 
-This contains everything you need to run your app locally.
+## 🚀 Features
 
-View your app in AI Studio: https://ai.studio/apps/f9cdec51-8d5f-41a2-b8d0-ed3c4e2577d4
+- 🗺️ Interactive geospatial map
+- 📍 Location-based idea sharing
+- 🤖 AI-powered category and severity prediction
+- 🔍 AI duplicate detection
+- 👥 Community verification
+- 🔔 Real-time notifications
+- 📊 Heatmap visualization
+- 🔐 JWT authentication
+- 🖼️ Image upload and AI analysis
+- 🏆 Reputation and badge system
+- 📱 Progressive Web App support
 
-## Run Locally
+## 🛠️ Tech Stack
 
-**Prerequisites:**  Node.js
+### Frontend
+- React
+- TypeScript
+- Leaflet
+- Axios
 
+### Backend
+- Node.js
+- Express.js
+- Socket.IO
+- JWT
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+### Database
+- MongoDB / PostgreSQL
+
+### AI
+- Google Gemini
+
+## 📸 Screenshots
+
+Add screenshots here.
+
+## ⚙️ Installation
+
+```bash
+git clone https://github.com/Ashwin-2212/geoidea-app.git
+cd geoidea-app
+npm install
