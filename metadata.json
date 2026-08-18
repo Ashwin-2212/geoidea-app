@@ -1,0 +1,6 @@
+{
+  "name": "CivicPulse - Smart City & Community Innovation Platform",
+  "description": "AI-powered civic engagement and smart city platform for citizens, communities, and government authorities to report, AI-verify, map, prioritize, and resolve urban issues.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
